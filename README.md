@@ -9,4 +9,6 @@ This is the future home of a Hugo generated site.
 
 ## reference documents
 
-[0]: https://github.com/i8degrees-dockerfiles
+<https://developers.cloudflare.com/pages/get-started/git-integration/>
+<https://developers.cloudflare.com/pages/configuration/build-configuration/>
+<https://gohugo.io/getting-started/quick-start/>
