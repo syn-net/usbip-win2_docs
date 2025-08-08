@@ -3,6 +3,10 @@
 
 This is the future home of a Hugo generated site.
 
+- web portals
+  - <http://localhost:1313/posts/usbip-win2/>
+  - <http://scorpio.home:1313/posts/usbip-win2/>
+
 ## usage
 
 ### hugo server
