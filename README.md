@@ -5,8 +5,11 @@ This is the future home of a Hugo generated site.
 
 ## usage
 
+### hugo server
+
 ```shell
 hugo server --buildDrafts --disableFastRender
+#hugo server --buildDrafts --disableFastRender --bind 0.0.0.0
 ```
 
 ## reference documents
