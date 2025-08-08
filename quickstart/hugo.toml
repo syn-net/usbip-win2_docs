@@ -1,0 +1,21 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'usbip-win2'
+defaultContentLanguage = 'en'
+#paginate = 20
+#https://github.com/theNewDynamic/gohugo-theme-ananke
+theme = 'ananke'
+#theme = 'simple-dark'
+# https://github.com/techbarrack/terminal-hugo-theme
+#theme = 'terminal'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.tableOfContents]
+endLevel = 4
+ordered = true
+startLevel = 1
+
+[markup.goldmark.highlight]
+noClasses = false
