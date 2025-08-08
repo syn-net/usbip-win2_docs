@@ -1,7 +1,7 @@
 
 # usbip-win2
 
-*...*
+This is the future home of a Hugo generated site.
 
 ## usage
 
