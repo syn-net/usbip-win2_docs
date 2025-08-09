@@ -1,7 +1,7 @@
 archetypedir = 'archetypes'
 assetdir = 'assets'
 baseurl = '/'
-cachedir = '/home/jeff/.cache/hugo_cache'
+cachedir = '~/.cache/hugo_cache'
 capitalizelisttitles = true
 contentdir = 'content'
 datadir = 'data'
@@ -21,7 +21,6 @@ themesdir = 'themes'
 timeout = '60s'
 title = 'usbip-win2'
 titlecasestyle = 'AP'
-workingdir = '/mnt/fs1/Projects/syn-net/usbip-win2.git/quickstart'
 
 [build]
   useresourcecachewhen = 'fallback'
