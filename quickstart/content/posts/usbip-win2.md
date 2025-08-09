@@ -1,6 +1,5 @@
 +++
 date = '2025-08-08T12:33:43-05:00'
-draft = true
 title = 'usbip win2'
 +++
 
