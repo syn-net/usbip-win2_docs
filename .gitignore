@@ -10,3 +10,6 @@ dist/**
 mounts/**
 
 tmp/**
+
+public/**
+
