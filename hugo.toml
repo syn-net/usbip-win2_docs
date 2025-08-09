@@ -1,7 +1,7 @@
 archetypedir = 'archetypes'
 assetdir = 'assets'
 baseurl = '/'
-cachedir = '~/.cache/hugo_cache'
+cachedir = './.cache/hugo_cache'
 capitalizelisttitles = true
 contentdir = 'content'
 datadir = 'data'
